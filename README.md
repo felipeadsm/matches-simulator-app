@@ -1,2 +1,3 @@
 # matches-simulator-app
- App para simular partidas de Futebol
+ App Android Nativo de Simulação de Partidas. 
+ Este repositório foi organizado em algumas branches que representam as implementações realizadas.
